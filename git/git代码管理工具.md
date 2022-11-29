@@ -25,7 +25,7 @@ git add xx							#将指定文件提交至暂存区
 git commit
 功能：提交暂存区文件到远程仓库
 基本用法：
-git commit -am "注释"   #提交时带上注释
+git commit -m "注释"   #提交时带上注释
 ```
 #### 分支管理命令
 ```git
